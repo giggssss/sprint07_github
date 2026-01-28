@@ -3,3 +3,5 @@ def payment():
 
 def refund():
     return "This is the refund page."
+def invoice():
+    return "This is the invoice page."

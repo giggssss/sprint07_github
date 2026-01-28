@@ -1,1 +1,1 @@
-print("6-test2")
+print("This is a test file.")

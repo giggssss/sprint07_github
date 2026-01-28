@@ -7,3 +7,7 @@ def invoice():
     return "This is the invoice page."
 def receipt():
     return "This is the receipt page."
+
+    main()
+def subscription():
+    return "This is the subscription page."

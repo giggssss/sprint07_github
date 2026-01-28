@@ -15,6 +15,9 @@ def test():
 def sample():
     print("This is a sample function.")
 
+def sample2():
+    print("This is a sample function.")
+
 # Call the main function
 
 

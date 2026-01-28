@@ -7,6 +7,8 @@ def helper_function():
 
 def another_function():
     print("This is another function.")
+    helper_function()
+
 
 if __name__ == "__main__":
     main()

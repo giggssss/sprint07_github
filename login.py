@@ -9,3 +9,6 @@ def logout():
 
 def reset_password(username):
     return f"Password reset link sent to {username}'s email"
+
+def register(username, password, email):
+    return f"User {username} registered successfully with email {email}"

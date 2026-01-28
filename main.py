@@ -5,5 +5,9 @@ def main():
 def helper_function():
     print("This is a helper function.")
 
+def another_function():
+    print("This is another function.")
+
 if __name__ == "__main__":
     main()
+

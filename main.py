@@ -12,6 +12,9 @@ def another_function():
 def test():
     print("This is a test function.")
 
+def sample():
+    print("This is a sample function.")
+
 # Call the main function
 
 

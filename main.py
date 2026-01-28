@@ -12,6 +12,9 @@ def another_function():
 def test():
     print("This is a test function.")
 
+# Call the main function
+
+
 
 if __name__ == "__main__":
     main()

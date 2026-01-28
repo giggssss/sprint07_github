@@ -9,6 +9,9 @@ def another_function():
     print("This is another function.")
     helper_function()
 
+def test():
+    print("This is a test function.")
+
 
 if __name__ == "__main__":
     main()
